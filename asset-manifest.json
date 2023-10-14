@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reacthello/static/css/main.8caf717c.css",
+    "main.js": "/reacthello/static/js/main.ef28a91e.js",
+    "index.html": "/reacthello/index.html",
+    "main.8caf717c.css.map": "/reacthello/static/css/main.8caf717c.css.map",
+    "main.ef28a91e.js.map": "/reacthello/static/js/main.ef28a91e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8caf717c.css",
+    "static/js/main.ef28a91e.js"
+  ]
+}
